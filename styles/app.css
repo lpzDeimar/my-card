@@ -8,10 +8,12 @@ background: linear-gradient(121deg, rgba(30,45,249,1) 0%, rgba(117,39,233,1) 16%
 
 display: flex;
 
+flex-direction: column;
+
 /* Hor */
-justify-content: center;
+justify-content: flex-start;
 /* Ver  */
-align-items: center;
+align-items: flex-end;
 
 
 }
